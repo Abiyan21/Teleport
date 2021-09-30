@@ -1,0 +1,9 @@
+name: Sethome
+version: '${project.version}'
+main: me.abiyan.sethome.Main
+api-version: 1.17
+authors: [ Abiyan ]
+description: Gesetzten Punkt teleportieren
+commands:
+  home:
+  sethome:
